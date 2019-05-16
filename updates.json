@@ -1,2 +1,14 @@
-# cebuilder
-The assistant tool for build the React native app quickly 🚀🚀🚀
+{
+    "win32-x64-prod": {
+        "readme": "CeBuilder new release!",
+        "update": "https://www.dropbox.com/s/yz00py1x7suvs01/CeBuilder%200.34.0.msi",
+        "install": "https://www.dropbox.com/s/yz00py1x7suvs01/CeBuilder%200.34.0.msi",
+        "version": "0.34.0"
+      },
+      "darwin-x64-prod": {
+        "readme": "CeBuilder new release!",
+        "update": "https://www.dropbox.com/s/3ryqc4jhw2lbs81/CeBuilder-0.34.0.dmg",
+        "install": "https://www.dropbox.com/s/3ryqc4jhw2lbs81/CeBuilder-0.34.0.dmg",
+        "version": "0.34.0"
+      }
+}
